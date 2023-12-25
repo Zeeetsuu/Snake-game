@@ -7,3 +7,6 @@ arrow key down = down
 arrow key right = right
 
 arrow key left = left
+
+
+Note : code is in C language
