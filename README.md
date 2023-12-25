@@ -1,2 +1,7 @@
 # Snake-game
-A project made by a group of university student to fulfill a task given by the lecturer.
+
+list of key used to control snake movement :
+arrow key up = up
+arrow key down = down
+arrow key right = right
+arrow key left = left
